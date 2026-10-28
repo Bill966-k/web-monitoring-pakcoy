@@ -1,0 +1,11 @@
+streamlit>=1.40
+streamlit-autorefresh
+plotly
+pandas
+numpy
+openpyxl
+scikit-learn
+joblib
+pillow
+# Samakan versinya dengan Colab (lihat output Cell 1), contoh: tensorflow==2.xx.x
+tensorflow
